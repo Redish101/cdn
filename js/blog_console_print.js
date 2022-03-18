@@ -1,4 +1,1 @@
-console.log("彩蛋：");
-console.log("这位正在看代码的同学，有兴趣参与BilibiliOS的开发吗？如有兴趣，请发送邮件到：");
-console.log("join@bilibilios.tk");
-console.log("并且注明来源Console");
+console.log("\n %c Redish101博客 %c https://redish101.github.io \n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;")
